@@ -76,7 +76,7 @@ Best regards,
 International Lottery Commission
 Explanation: Many capital words, spam indicators, external link.
 Legitimate example:
-textSubject: Tomorrow's team meeting – 11:00
+Subject: Tomorrow's team meeting – 11:00
 
 Hi Zaur,
 
@@ -84,4 +84,5 @@ Just a reminder about our weekly sync tomorrow at 11:00 in room 305.
 Please prepare a short update on your current tasks.
 
 Thanks,
+
 Anna (Project Manager)
